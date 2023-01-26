@@ -1,0 +1,14 @@
+{
+  "competences": [
+    {
+      "id": "test",
+      "name": "Java",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": "69cc5764-5791-e755-5515-ab94cd7a594c",
+      "name": "65",
+      "image": "https://picsum.photos/200"
+    }
+  ]
+}
