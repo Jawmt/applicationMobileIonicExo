@@ -1,13 +1,8 @@
 {
   "competences": [
     {
-      "id": "test",
+      "id": "a85b5436-4e1b-7820-a774-b46573991025",
       "name": "Java",
-      "image": "https://picsum.photos/200"
-    },
-    {
-      "id": "69cc5764-5791-e755-5515-ab94cd7a594c",
-      "name": "65",
       "image": "https://picsum.photos/200"
     }
   ]
